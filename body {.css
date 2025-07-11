@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.patron {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-left: 5px solid #007acc;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.patron h2 {
+  margin-top: 0;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
